@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Safety-Firewall"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Safety-Firewall?style=flat-square&color=blue" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Safety-Firewall"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Safety-Firewall?style=flat-square&color=blue" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Safety-Firewall/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Safety-Firewall?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Safety-Firewall/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Safety-Firewall?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,30 +60,30 @@ AI Safety Firewalls sit between applications and Large Language Models (LLMs) or
 
 ## 💻 Open-Source GitHub Projects
 
-Sorted by GitHub Stars 🌟 (Descending).
+Sorted by GitHub_Stars 🌟 (Descending).
 
-- **[NVIDIA/garak](https://github.com/NVIDIA/garak)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers)  
+- **[NVIDIA/garak](https://github.com/NVIDIA/garak)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers)  
   *LLM vulnerability scanner and red-teaming framework that discovers prompt injection vulnerabilities, jailbreaks, and failure modes.*
 
-- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
   *CLI and library for evaluating LLM security, automated red-teaming, jailbreak testing, and CI/CD assertion checks.*
 
-- **[guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
+- **[guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
   *Leading open-source framework for declarative validation, structured output enforcement, and corrective actions on LLM inputs/outputs.*
 
-- **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
+- **[NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
   *Programmable guardrails framework for controlling LLM and agent behavior, topical boundaries, dialog flow, and safety policies.*
 
-- **[meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)** [![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)  
+- **[meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)** [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers)  
   *Meta's open-source cybersecurity and safety evaluation tools, including **LlamaFirewall** for agent safety, prompt injection detection, and code execution scanning.*
 
-- **[protectai/llm-guard](https://github.com/protectai/llm-guard)** [![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
+- **[protectai/llm-guard](https://github.com/protectai/llm-guard)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
   *Comprehensive Security Toolkit for Scanning & Sanitizing LLM Inputs and Outputs (Prompt Injection, PII, Secrets, Toxicity).*
 
-- **[protectai/rebuff](https://github.com/protectai/rebuff)** [![GitHub stars](https://img.shields.io/github/stars/protectai/rebuff?style=social&color=white)](https://github.com/protectai/rebuff/stargazers)  
+- **[protectai/rebuff](https://github.com/protectai/rebuff)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/rebuff?style=social&color=white)](https://github.com/protectai/rebuff/stargazers)  
   *Designed to detect prompt injection attacks in AI applications using multi-layered defense (heuristics, vector DB, LLM detection).*
 
-- **[akshaymagapu/aisafeguard](https://github.com/akshaymagapu/aisafeguard)** [![GitHub stars](https://img.shields.io/github/stars/akshaymagapu/aisafeguard?style=social&color=white)](https://github.com/akshaymagapu/aisafeguard/stargazers)  
+- **[akshaymagapu/aisafeguard](https://github.com/akshaymagapu/aisafeguard)** [![GitHub_Stars](https://img.shields.io/github/stars/akshaymagapu/aisafeguard?style=social&color=white)](https://github.com/akshaymagapu/aisafeguard/stargazers)  
   *Open safety proxy layer with prompt-injection detection, PII redaction, toxicity filtering, and OpenAI-compatible endpoints.*
 
 ---
@@ -94,7 +94,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/Edit** entries in `README.md` maintaining standard markdown table or bullet formatting.
-3. 🔍 Provide accurate descriptions, verifiable star counts/links, or pricing data.
+3. 🔍 Provide accurate descriptions, verifiable Stars_Counts/links, or pricing data.
 4. 🚀 Open a **Pull Request (PR)** with a summary of changes.
 
 ---
